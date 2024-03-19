@@ -2,6 +2,11 @@
 
 This SAM template creates a Lambda function that writes to an S3 bucket when invoked.
 
+## Lab Overview And High Level Design
+
+Let's start with the High Level Design.
+![High Level Design](./images/image1.png)
+
 ## Deployment Instructions if you want to clone and play
 
 1. Create a new directory, navigate to that directory in a terminal and clone the GitHub repository:
